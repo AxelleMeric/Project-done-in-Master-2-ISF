@@ -1,0 +1,114 @@
+[
+    {
+        "nom": "Alphonse Histou",
+        "poste": "Attaché de presse, section librairie",
+        "departement": "Presse",
+        "email": "histou.al@divulgache.com",
+        "bureau": "Open Space Sherlock - 1er étage",
+        "telephone": "07 74 25 26 32"
+    },
+    {
+        "nom": "Bérénice Biscotte",
+        "poste": "Responsable de la Traduction - Langues Slaves",
+        "departement": "Traduction",
+        "email": "biscotte.be@divulgache.com",
+        "bureau": "Open Space Dumbledore - 2eme étage",
+        "telephone": "07 74 72 36 54"
+    },
+    {
+        "nom": "Claudine Monclair",
+        "poste": "Avocat spécialisé en Droit d'Auteur",
+        "departement": "Juridique",
+        "email": "monclair.cl@divulgache.com",
+        "bureau": "Aile A - Bureau 1 - 1er étage",
+        "telephone": "07 74 28 14 36"
+    },
+    {
+        "nom": "Didier de La Plagne",
+        "poste": "Directeur du service Presse",
+        "departement": "Presse",
+        "email": "plaggne.di@divulgache.com",
+        "bureau": "Open Space Sherlock - 1er étage",
+        "telephone": "07 74 25 35 45"
+    },
+    {
+        "nom": "Edmond Rossa",
+        "poste": "Négociateur de Litiges",
+        "departement": "Juridique",
+        "email": "rossa.ed@divulgache.com",
+        "bureau": "Aile A - Bureau 2 - 1er étage",
+        "telephone": "07 74 28 12 24"
+    },
+    {
+        "nom": "Flore D'Anjou",
+        "poste": "Directrice du département éditorial",
+        "departement": "Editorial",
+        "email": "anjou.fl@divulgache.com",
+        "bureau": "Aile B - Bureau A - 2eme étage",
+        "telephone": "07 74 24 10 10"
+    },
+    {
+        "nom": "Gastond Bertrand",
+        "poste": "Attaché de presse, section grande distribution",
+        "departement": "Presse",
+        "email": "bertrand.ga@divulgache.com",
+        "bureau": "Open Space Sherlock - 1er étage",
+        "telephone": "07 74 25 14 74"
+    },
+    {
+        "nom": "Huguette Dupuy",
+        "poste": "Correcteur Anti-Mystère",
+        "departement": "Editorial",
+        "email": "dupuy.hu@divulgache.com",
+        "bureau": "Open Space Dumbledore - 2eme étage",
+        "telephone": "07 74 24 24 52"
+    },
+    {
+        "nom": "Iris Pupille",
+        "poste": "Standardiste",
+        "departement": "Accueil",
+        "email": "pupille.ir@divulgache.com",
+        "bureau": "Accueil - RdC",
+        "telephone": "07 74 00 00 00"
+    },
+    {
+        "nom": "Josiane Clairefontaine",
+        "poste": "Standardiste",
+        "departement": "Accueil",
+        "email": "clairefontaine.jo@divulgache.com",
+        "bureau": "Accueil - RdC",
+        "telephone": "07 74 00 00 00"
+    },
+    {
+        "nom": "Ludivine Boubidoup",
+        "poste": "Attaché de presse, section journaux",
+        "departement": "Presse",
+        "email": "boubidoup.lu@divulgache.com",
+        "bureau": "Open Space Sherlock - 1er étage",
+        "telephone": "07 74 25 75 88"
+    },
+    {
+        "nom": "Michel Milou",
+        "poste": "Correcteur Anti-Mystère",
+        "departement": "Editorial",
+        "email": "milou.mi@divulgache.com",
+        "bureau": "Open Space Dumbledore - 2eme étage",
+        "telephone": "07 74 24 56 86"
+    },
+    {
+        "nom": "Norbert Dulogis",
+        "poste": "Community Manager",
+        "departement": "Presse",
+        "email": "dulogis.no@divulgache.com",
+        "bureau": "Open Space Sherlock - 1er étage",
+        "telephone": "07 74 25 10 13"
+    },
+    {
+        "nom": "Rulio De La Vega",
+        "poste": "Responsable des Traductions - Langues Hispaniques",
+        "departement": "Traduction",
+        "email": "vega.ru@divulgache.com",
+        "bureau": "Open Space Dumbledore - 2eme étage",
+        "telephone": "07 74 72 72 46"
+    }
+]
