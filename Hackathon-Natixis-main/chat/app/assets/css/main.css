@@ -1,0 +1,77 @@
+@import "tailwindcss" theme(static);
+@import "@nuxt/ui";
+
+@theme static {
+  --font-sans: 'Public Sans', sans-serif;
+
+  --color-green-50: #EFFDF5;
+  --color-green-100: #D9FBE8;
+  --color-green-200: #B3F5D1;
+  --color-green-300: #75EDAE;
+  --color-green-400: #00DC82;
+  --color-green-500: #00C16A;
+  --color-green-600: #00A155;
+  --color-green-700: #007F45;
+  --color-green-800: #016538;
+  --color-green-900: #0A5331;
+  --color-green-950: #052E16;
+}
+
+:root {
+  --ui-container: var(--container-5xl);
+}
+
+:root {
+  /* Chart Fallback Colors */
+  --vis-color0: oklch(79.452% 0.12584 309.336) !important;
+  --vis-color1: oklch(0.7266 0.0848 156.65) !important;
+  --vis-color2: oklch(0.8527 0.0786 244.24) !important;
+  --vis-color3: oklch(56.036% 0.17774 17.673) !important;
+  --vis-color4: oklch(0.9602 0.1303 104.84) !important;
+
+  /* Legend */
+  --vis-legend-item-spacing: 0px !important;
+  --vis-legend-spacing: 16px !important;
+  --vis-legend-label-color: var(--ui-text-muted) !important;
+
+  /* Axis */
+  --vis-axis-grid-color: rgba(0, 0, 0, 0.1) !important;
+  --vis-axis-tick-label-color: var(--ui-text-muted) !important;
+  --vis-axis-label-color: var(--ui-text-muted) !important;
+  --vis-axis-tick-color: var(--ui-text-muted) !important;
+  --vis-axis-domain-line-dasharray: none !important;
+  --vis-axis-tick-label-weight: 400 !important;
+
+  /* Tooltip - let ChartTooltipContent handle all styling */
+  --vis-tooltip-padding: 0 !important;
+  --vis-tooltip-border-color: transparent !important;
+  --vis-tooltip-background-color: transparent !important;
+  --vis-tooltip-border-radius: 0 !important;
+  --vis-tooltip-box-shadow: none !important;
+  --vis-tooltip-backdrop-filter: none !important;
+
+  /* Timeline */
+  --vis-timeline-row-even-fill-color: #f9fafb !important;
+  --vis-timeline-row-odd-fill-color: transparent !important;
+  --vis-timeline-label-color: var(--ui-text-muted) !important;
+}
+
+/* Dark mode example: override theme variables */
+.dark {
+  --custom-primary: oklch(0.72 0.192 149.58);
+  --custom-secondary: oklch(0.63 0.1963 157.86);
+}
+
+.animate-shine {
+  animation: shine 2s linear infinite;
+}
+
+@keyframes shine {
+  0% {
+    background-position: -200% center;
+  }
+
+  100% {
+    background-position: 200% center;
+  }
+}
